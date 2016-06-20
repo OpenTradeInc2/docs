@@ -1,0 +1,10 @@
+phpcpd 2.0.4 by Sebastian Bergmann.
+
+Found 1 exact clones with 61 duplicated lines in 1 files:
+
+  -	/Users/bruce/repo/ot2/wp_plugin/includes/process-file.php:114-175
+ 	/Users/bruce/repo/ot2/wp_plugin/includes/process-file.php:481-542
+ 
+1.34% duplicated lines out of 4548 total lines of code.
+
+Time: 72 ms, Memory: 12.75Mb
